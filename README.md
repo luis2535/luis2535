@@ -6,7 +6,6 @@
 - 🚀 Aprendendo Javascript, HTML e CSS
 - 💻 Procurando iniciação no mercado de trabalho
 - 📫 Email para contato: luiseduardobertelli1@gmail.com
-- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/luis2535">
