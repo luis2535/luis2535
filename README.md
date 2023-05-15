@@ -3,8 +3,8 @@
 
 
 - 📚 Estudante de Ciência da Computação - UDESC
-- 🚀 Aprendendo Javascript, HTML e CSS
-- 💻 Procurando iniciação no mercado de trabalho
+- 💻 Aprendendo Javascript, HTML e CSS
+- 🚀 Líder do i9 - Projeto de Extensão da UDESC
 - 📫 Email para contato: luiseduardobertelli1@gmail.com
 
 <div align="center">
